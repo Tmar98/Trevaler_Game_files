@@ -5,11 +5,10 @@ using System.Text;
 
 namespace Trevaler_Game_files
 {
-    class Ecuepment_Places
+    public class Equipment_Places
     {
-		
 		private object head;
-		public object Head 
+		public object Head
 		{
 			get { return head; }
 			set { head = value; }
